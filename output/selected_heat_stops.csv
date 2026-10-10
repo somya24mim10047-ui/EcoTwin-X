@@ -1,0 +1,4 @@
+stop_id,node_id,name,stop_type,average_shade,average_pollution,heat_risk,pollution_risk,rider_risk,vendor_risk,child_risk,worker_risk,road_connections,accessibility,priority_score,rank
+S03,103,Public Facility C,public_facility,0.25,0.425,0.75,0.425,0.39149999999999996,0.5489999999999999,0.6269999999999999,0.5225,10,1.0,0.6189999999999999,1
+S02,102,Bus Stop B,bus_stop,0.25,0.25,0.75,0.25,0.35999999999999993,0.5175,0.585,0.4875,10,1.0,0.57,2
+S06,106,Hospital F,hospital,0.5,0.25,0.5,0.25,0.255,0.36,0.41,0.3416666666666666,10,1.0,0.43666666666666665,3

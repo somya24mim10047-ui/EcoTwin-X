@@ -1,0 +1,9 @@
+location_id,predicted_shade_frac,observed_shaded,predicted_shaded,match
+F01,0.8,1,1,1
+F02,0.2,0,0,1
+F03,0.65,1,1,1
+F04,0.4,1,0,0
+F05,0.9,1,1,1
+F06,0.3,0,0,1
+F07,0.75,1,1,1
+F08,0.1,0,0,1

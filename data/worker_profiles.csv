@@ -1,0 +1,4 @@
+worker_type,speed_kmh,heat_sensitivity,pollution_sensitivity
+rider,25,0.8,0.7
+vendor,2,1.0,0.5
+child,4,1.2,1.0

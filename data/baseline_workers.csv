@@ -1,0 +1,4 @@
+worker_type,heat_sensitivity,pollution_sensitivity,average_time_minutes
+Rider,1.0,1.0,30
+Vendor,1.5,0.8,240
+Child,1.8,1.2,45

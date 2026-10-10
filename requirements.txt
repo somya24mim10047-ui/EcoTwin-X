@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+geopandas
+folium
+streamlit-folium
+shapely
+networkx
+strands-agents
+boto3

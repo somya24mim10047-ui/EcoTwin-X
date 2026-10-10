@@ -1,0 +1,7 @@
+module,status,check,result
+routing_engine,PASSED,routing output,15 routing records found
+impact_simulator,PASSED,impact output,9 intervention impact records found
+environmental_negotiator,PASSED,negotiator output,3 intervention options ranked
+budget_optimizer,PASSED,budget constraint,36 valid budget solutions
+cross_validation,PASSED,intervention consistency,3 common intervention types
+cross_validation,PASSED,budget consistency,All selected plans within budget

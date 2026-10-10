@@ -1,0 +1,7 @@
+stop_id,name,stop_type,node_id,workers_helped,estimated_risk_reduction,benefit_score,rank
+S02,Bus Stop B,bus_stop,102,200,0.15,30.0,1
+S03,Public Facility C,public_facility,103,200,0.15,30.0,2
+S01,Hospital A,hospital,101,200,0.135,27.0,3
+S06,Hospital F,hospital,106,200,0.135,27.0,4
+S04,Park D,park,104,200,0.105,21.0,5
+S05,Bus Stop E,bus_stop,105,200,0.105,21.0,6

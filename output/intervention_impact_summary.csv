@@ -1,0 +1,4 @@
+worker_type,baseline_risk,future_risk,risk_reduction_percent
+rider,0.2325,0.1555,33.12
+vendor,0.6645,0.444,33.18
+child,0.5647,0.3775,33.16

@@ -1,0 +1,82 @@
+{
+    "hour": 13,
+    "start": 101,
+    "end": 106,
+    "shortest": {
+        "path": [
+            101,
+            102,
+            103,
+            106
+        ],
+        "distance_m": 650.0,
+        "shade": 0.2333333333333333,
+        "exposure": 0.93
+    },
+    "coolest": {
+        "path": [
+            101,
+            104,
+            105,
+            106
+        ],
+        "distance_m": 750.0,
+        "shade": 0.8166666666666668,
+        "exposure": 0.19666666666666666
+    },
+    "comparison": {
+        "extra_distance_percent": 15.384615384615385,
+        "shade_gain": 0.5833333333333335,
+        "exposure_saved_percent": 78.85304659498208
+    },
+    "worker_metrics": {
+        "rider": {
+            "shortest": {
+                "distance_m": 650.0,
+                "travel_time_minutes": 1.9500000000000002,
+                "heat_dose": 1.38,
+                "pollution_dose": 0.5700000000000001,
+                "risk": 1.1369999999999998
+            },
+            "coolest": {
+                "distance_m": 750.0,
+                "travel_time_minutes": 2.25,
+                "heat_dose": 0.32999999999999996,
+                "pollution_dose": 0.09,
+                "risk": 0.25799999999999995
+            }
+        },
+        "vendor": {
+            "shortest": {
+                "distance_m": 650.0,
+                "travel_time_minutes": 9.75,
+                "heat_dose": 2.0700000000000003,
+                "pollution_dose": 0.5700000000000001,
+                "risk": 1.62
+            },
+            "coolest": {
+                "distance_m": 750.0,
+                "travel_time_minutes": 11.25,
+                "heat_dose": 0.495,
+                "pollution_dose": 0.09,
+                "risk": 0.3735
+            }
+        },
+        "child": {
+            "shortest": {
+                "distance_m": 650.0,
+                "travel_time_minutes": 9.75,
+                "heat_dose": 2.3,
+                "pollution_dose": 0.7600000000000001,
+                "risk": 1.8379999999999999
+            },
+            "coolest": {
+                "distance_m": 750.0,
+                "travel_time_minutes": 11.25,
+                "heat_dose": 0.5499999999999999,
+                "pollution_dose": 0.12000000000000002,
+                "risk": 0.42099999999999993
+            }
+        }
+    }
+}
